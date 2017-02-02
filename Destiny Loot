@@ -41,5 +41,12 @@ KDA 8/2/10
 KDA 20/4/13
 KDA 20/0/4
 
+Variables:
+Int- a numerical integer ex. Int age = 6;
+Bool- True of false ex. Bool b = true;
+Float- Speed at which object move ex. public float horizontalSpeed = .2f;
+Double- decimal value, doubles the float speed I think… ex. public float horizontalSpeed = .2f;
+strings- alphanumerical sequence ex. DGM1600
+
 
 
